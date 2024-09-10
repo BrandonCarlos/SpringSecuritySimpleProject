@@ -1,4 +1,4 @@
-package com.telusko.springSecEx;
+package com.telusko.springSecEx.model;
 
 public class Student {
     private int id;
